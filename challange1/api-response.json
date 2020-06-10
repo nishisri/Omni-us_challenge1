@@ -1,0 +1,111 @@
+{
+  "duration": 1.079,
+  "success": true,
+  "error_message": null,
+  "status_code": 200,
+  "payload": {
+    "from": 0,
+    "limit": 1000000,
+    "page": 0,
+    "size": 1000000,
+    "items": [
+      {
+        "document_id": "d95a099b-b275-4b5f-9a61-1a79d6549705",
+        "collection_id": "1a6b5bf1-d1b2-489b-99b1-fc3863d8b9cb",
+        "status": "REOPENED",
+        "file_name": "10.pdf",
+        "created_date": "2019-09-18T11:34:07",
+        "revision_number": 0
+      },
+      {
+        "document_id": "851b8766-170a-43f6-ba80-7eb5d0000541",
+        "collection_id": "1a6b5bf1-d1b2-489b-99b1-fc3863d8b9cb",
+        "status": "VALIDATED",
+        "file_name": "77.pdf",
+        "created_date": "2019-09-18T11:34:13",
+        "revision_number": 0
+      },
+      {
+        "document_id": "6d149bc8-8274-4479-a03a-dc95fba39b20",
+        "collection_id": "1a6b5bf1-d1b2-489b-99b1-fc3863d8b9cb",
+        "status": "REOPENED",
+        "file_name": "44.pdf",
+        "created_date": "2019-09-18T11:34:59",
+        "revision_number": 0
+      },
+      {
+        "document_id": "0c1a6f06-1106-4df1-a3a6-2c99888806b6",
+        "collection_id": "1a6b5bf1-d1b2-489b-99b1-fc3863d8b9cb",
+        "status": "VALIDATED",
+        "file_name": "83.pdf",
+        "created_date": "2019-09-18T11:35:07",
+        "revision_number": 0
+      },
+      {
+        "document_id": "33184bf6-1ad6-479e-936b-7913bcec2e30",
+        "collection_id": "1a6b5bf1-d1b2-489b-99b1-fc3863d8b9cb",
+        "status": "DONE",
+        "file_name": "35.pdf",
+        "created_date": "2019-09-18T11:35:13",
+        "revision_number": 0
+      },
+      {
+        "document_id": "94b547db-5262-4a2c-8e10-5ece2174cccd",
+        "collection_id": "1a6b5bf1-d1b2-489b-99b1-fc3863d8b9cb",
+        "status": "VALIDATED",
+        "file_name": "59.pdf",
+        "created_date": "2019-09-18T11:35:16",
+        "revision_number": 0
+      },
+      {
+        "document_id": "e4b6241f-ed0d-440f-8391-185fe86bcef2",
+        "collection_id": "1a6b5bf1-d1b2-489b-99b1-fc3863d8b9cb",
+        "status": "TERMINATED",
+        "file_name": "24.pdf",
+        "created_date": "2019-09-18T11:35:19",
+        "revision_number": 0
+      },
+      {
+        "document_id": "48c7a2b5-465f-4ca8-8917-086369575e03",
+        "collection_id": "1a6b5bf1-d1b2-489b-99b1-fc3863d8b9cb",
+        "status": "PROCESSED",
+        "file_name": "91.pdf",
+        "created_date": "2019-09-18T11:35:23",
+        "revision_number": 0
+      },
+      {
+        "document_id": "5ac5ad32-2c0f-4844-96fe-c09cdc62f339",
+        "collection_id": "1a6b5bf1-d1b2-489b-99b1-fc3863d8b9cb",
+        "status": "DONE",
+        "file_name": "23.pdf",
+        "created_date": "2019-09-18T11:35:26",
+        "revision_number": 0
+      },
+      {
+        "document_id": "365f1ff4-6f25-471d-a925-1b7c8d322fc4",
+        "collection_id": "1a6b5bf1-d1b2-489b-99b1-fc3863d8b9cb",
+        "status": "FAILED",
+        "file_name": "7.pdf",
+        "created_date": "2019-09-18T11:35:27",
+        "revision_number": 0
+      },
+      {
+        "document_id": "44fbaaae-33f6-444a-b952-91e6c672a775",
+        "collection_id": "1a6b5bf1-d1b2-489b-99b1-fc3863d8b9cb",
+        "status": "MIGRATED",
+        "file_name": "98.pdf",
+        "created_date": "2019-09-18T11:35:39",
+        "revision_number": 0
+      },
+      {
+        "document_id": "d1117c89-4b10-4316-aa88-031ad12fb707",
+        "collection_id": "1a6b5bf1-d1b2-489b-99b1-fc3863d8b9cb",
+        "status": "FAILED",
+        "file_name": "42.pdf",
+        "created_date": "2019-09-18T11:35:44",
+        "revision_number": 0
+      }
+    ],
+    "total": 2251
+  }
+}
