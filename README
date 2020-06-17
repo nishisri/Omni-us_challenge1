@@ -1,0 +1,17 @@
+# Challenge 1:
+
+## Technologies Used:
+
+* Language - Python
+* Build tool - Pyenv
+
+## How to start the application:
+This application assumes that Python3 already installed in the system also it assumes that Pytest and requests are also installed.
+
+Summary:
+This includes solution for Problem 1,2,3 of Challenge 1.
+
+To Run use below command:
+python Document_status.py
+
+
